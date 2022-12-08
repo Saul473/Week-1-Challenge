@@ -7,7 +7,7 @@ This is helpful as a guide to make learning a little more visual. I also used th
 Here is a screenshot showing examples of the comments added into the CSS file.
 ![Screenshot of CSS](https://user-images.githubusercontent.com/118771655/206571915-2f51771a-0eb5-499b-a0ac-c778db6b6cb9.PNG)
 
-##Installation
+## Installation
 
 N/A
 
